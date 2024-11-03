@@ -24,7 +24,7 @@ These generators can be beneficial for users seeking to maximize their download 
 
 Katfile is a cloud storage service that provides users with a platform to upload and share files. It offers both free and premium account options for users.
 
-** Premium Benefits: **
+**Premium Benefits:**
 
 * Increased Storage: Premium users enjoy larger storage capacities.
 * Faster Downloads: Premium accounts often allow for faster and unlimited downloads.
