@@ -12,7 +12,7 @@ Katfile premium link generators provide users with convenient access to download
 
 Premium link generators are tools that enable users to transform regular download links into premium links. This process often circumvents download limitations set by file hosting services.
 
-# Key Features:
+**Key Features:
 
 No Wait Times: Users can bypass the waiting periods imposed on free accounts.
 High Speed: Many generators promise quicker download speeds than standard links.
